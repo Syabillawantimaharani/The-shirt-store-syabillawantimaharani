@@ -1,0 +1,28 @@
+html {
+  margin: 0;
+}
+
+.product .row .col-sm-6 .buy {
+  color: black;
+  background: #d9d9d9;
+  padding-left: 122px;
+  padding-right: 122px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.product .row .col-sm-6 .buy:hover {
+  text-decoration: none;
+}
+
+.product .row .col-sm-6 button {
+  color: black;
+  background: #faff00;
+  width: 100%;
+  text-align: center;
+  height: 61px;
+}
+
+.product .row .col-sm-6 .basket:hover {
+  text-decoration: none;
+}
